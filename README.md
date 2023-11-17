@@ -241,6 +241,6 @@ Create a monitoring dashboard
  16. Click Apply.
 	
  17. Now click Apply in the top-right corner.
+![image](https://i.imgur.com/Epj4OF4.png)
      
-You should now your two graphs—one for CPU usage and the other for memory utilization—populated.
 
